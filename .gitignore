@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# Allow root files
+!.gitignore
+!README.md
+!.github/
+
+# Allow specific files inside .github
+.github/*
+!.github/config.yml
+!.github/workflows/
+.github/workflows/*
+!.github/workflows/snake.yml
