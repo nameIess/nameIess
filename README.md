@@ -76,8 +76,10 @@
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
 </div>
 
+<!--
 ###
 
 <img src="https://github.com/nameIess/nameIess/blob/output/snake.svg" alt="Snake animation" />
 
 ###
+-->
